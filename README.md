@@ -6,11 +6,9 @@
 
 ---
 ### Контакты:
-
-[<img align="left" alt="juljuliks | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />]
+[<img align="left" alt="NikolayIzgarshev | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />]
 [<img align="left" alt="NikolayIzgarshev | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />]
 [<img align="left" alt="juljuliks | WhatsApp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />]
-[<img align="left" alt="NikolayIzgarshev | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />]
 
 <br/>
 <br/>
@@ -25,7 +23,6 @@
 [<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
 [<img align="left" alt="SQL" width="32px" src="https://img.icons8.com/color-glass/48/000000/sql.png"/>]
 [<img align="left" alt="PostgreSQL" width="32px" src="https://img.icons8.com/color/50/000000/postgreesql.png"/>]
-[<img align="left" alt="Docker" width="32px" src="https://img.icons8.com/color/48/000000/docker.png"/>]
 [<img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png"/>]
 [<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
@@ -44,15 +41,4 @@
 
 <!--
 **NikolaiIzg/NikolaiIzg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
