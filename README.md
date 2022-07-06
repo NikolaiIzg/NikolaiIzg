@@ -7,7 +7,7 @@
 ### Контакты:
 [<img align="left" alt="NikolayIzgarshev | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />]
 [<img align="left" alt="NikolayIzgarshev | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />]
-[<img align="left" alt="juljuliks | WhatsApp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />]
+[<img align="left" alt="NikolayIzgarshes | WhatsApp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />]
 
 <br/>
 <br/>
