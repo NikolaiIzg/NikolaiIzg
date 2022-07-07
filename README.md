@@ -1,12 +1,13 @@
 ### Привет! Я - Николай, frontend-разработчик!
 
-- 👀 Интересуюсь web-разработкой
+- 👀 Интересуюсь фотографией, футболом и конечно же web-разработкой
 - 📫 Как связаться: nikolayizgarshev@yandex.ru
 
 ---
 ### Контакты:
 [<img align="left" alt="NikolayIzgarshev | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />]
-[<img align="left" alt="NikolayIzgarshev | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />]
+<a href="https://t.me/NikolayIzgarshev" title="Telegram!">
+<img align="left" alt="NikolayIzgarshev | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" /></a>
 [<img align="left" alt="NikolayIzgarshes | WhatsApp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />]
 
 <br/>
