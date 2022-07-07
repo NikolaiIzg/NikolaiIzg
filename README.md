@@ -5,7 +5,7 @@
 
 ---
 ### Контакты:
-<a href="https://wa.me/79313566480" title="Instagram!">
+<a href="https://www.instagram.com/nikolayizgarshev" title="Instagram!">
 <img align="left" alt="NikolayIzgarshev | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" /></a>
 <a href="https://t.me/NikolayIzgarshev" title="Telegram!">
 <img align="left" alt="NikolayIzgarshev | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" /></a>
