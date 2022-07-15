@@ -12,6 +12,7 @@
 <a href="https://wa.me/79313566480" title="WhatsApp!">
 <img align="left" alt="NikolayIzgarshes | WhatsApp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp.png" /></a>
 <br/>
+<br/>
 
 ---
 ### Мой стек:
