@@ -15,7 +15,7 @@
 ---
 ### CV
 
-<a name="cv" href="" ><img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png"/></a><br>
+<a name="cv" href="https://yadi.sk/i/2S7Jyba62nmdPg" ><img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png"/></a><br>
 <h3><a name="hh" href="">CV on hh.ru</a></h3>
 
 ---
