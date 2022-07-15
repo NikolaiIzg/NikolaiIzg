@@ -10,7 +10,7 @@
 <a href="https://t.me/NikolayIzgarshev" title="Telegram!">
 <img align="left" alt="NikolayIzgarshev | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" /></a>
 <a href="https://wa.me/79313566480" title="WhatsApp!">
-<img align="left" alt="NikolayIzgarshes | WhatsApp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp.png" /></a>
+<img align="left" alt="NikolayIzgarshes | WhatsApp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp.png" /></a><br>
 
 ---
 ### CV
